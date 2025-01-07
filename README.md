@@ -1,7 +1,9 @@
 
 # Topic Modeling Explained
 
-![Topic Modeling Visualization](tm-lda.gif?text=Topic+Modeling+Visualization)
+
+<img src="tm-lda.gif" alt="TM-Image" width="300" height="200">
+
 
 ## What is Topic Modeling?
 
