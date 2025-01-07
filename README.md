@@ -49,13 +49,13 @@ Using **Latent Dirichlet Allocation (LDA)**, the cleaned reviews were analyzed a
 
 | **Topic ###** | **Theme**                              | **Contribution (%)** | **No. of Reviews** | **Top Words**                                | **Key Insights**                                                                 |
 |-------------|----------------------------------------|-----------------------|---------------------|---------------------------------------------|----------------------------------------------------------------------------------|
-| **Topic 1** | **Playlist Management**                | 16.5%                | ~10,107 reviews     | playlist, add, want, listen, like            | Users discuss playlist interactions, such as adding, removing, and shuffling songs. |
-| **Topic 2** | **Technical Issues and Connectivity**  | 9.5%                 | ~5,827 reviews      | try, log, work, account, connection          | Concerns about login problems, account issues, and connectivity problems.         |
-| **Topic 3** | **Ads and Premium Services**           | 12.2%                | ~7,476 reviews      | ads, premium, free, listen, pay              | Feedback about ads, premium subscriptions, and payment-related concerns.          |
-| **Topic 4** | **User Appreciation**                  | 13.5%                | ~8,180 reviews      | love, best, great, smile, listen             | Positive feedback highlighting satisfaction with app features and quality.         |
-| **Topic 5** | **Podcasts and Music Preferences**     | 14.2%                | ~8,706 reviews      | podcast, playlists, radio, artists, feature  | Users express preferences for podcasts, radio, and music content.                  |
-| **Topic 6** | **Subscription and Offline Access**    | 14.4%                | ~8,831 reviews      | download, premium, offline, subscription, pay| Concerns about downloads, offline mode, and subscription cancellations.            |
-| **Topic 7** | **App Performance and Bugs**           | 19.7%                | ~12,203 reviews     | play, stop, update, fix, crash               | Highlighting crashes, bugs, and app performance issues.                            |
+| **Topic-1** | **Playlist Management**                | 16.5%                | ~10,107 reviews     | playlist, add, want, listen, like            | Users discuss playlist interactions, such as adding, removing, and shuffling songs. |
+| **Topic-2** | **Technical Issues and Connectivity**  | 9.5%                 | ~5,827 reviews      | try, log, work, account, connection          | Concerns about login problems, account issues, and connectivity problems.         |
+| **Topic-3** | **Ads and Premium Services**           | 12.2%                | ~7,476 reviews      | ads, premium, free, listen, pay              | Feedback about ads, premium subscriptions, and payment-related concerns.          |
+| **Topic-4** | **User Appreciation**                  | 13.5%                | ~8,180 reviews      | love, best, great, smile, listen             | Positive feedback highlighting satisfaction with app features and quality.         |
+| **Topic-5** | **Podcasts and Music Preferences**     | 14.2%                | ~8,706 reviews      | podcast, playlists, radio, artists, feature  | Users express preferences for podcasts, radio, and music content.                  |
+| **Topic-6** | **Subscription and Offline Access**    | 14.4%                | ~8,831 reviews      | download, premium, offline, subscription, pay| Concerns about downloads, offline mode, and subscription cancellations.            |
+| **Topic-7** | **App Performance and Bugs**           | 19.7%                | ~12,203 reviews     | play, stop, update, fix, crash               | Highlighting crashes, bugs, and app performance issues.                            |
 
 ---
 
