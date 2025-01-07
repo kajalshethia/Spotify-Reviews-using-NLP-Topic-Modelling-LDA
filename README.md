@@ -2,7 +2,7 @@
 # Topic Modeling Explained
 
 
-<img src="tm-lda.gif" alt="TM-Image" width="600" height="400">
+<img src="tm-lda.gif" alt="TM-Image" width="600" height="300">
 
 
 ## What is Topic Modeling?
