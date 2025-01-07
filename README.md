@@ -47,7 +47,7 @@ Using **Latent Dirichlet Allocation (LDA)**, the cleaned reviews were analyzed a
 
 ### **3. Topic Contributions and Interpretation**
 
-| **Topic #** | **Theme**                              | **Contribution (%)** | **No. of Reviews** | **Top Words**                                | **Key Insights**                                                                 |
+| **Topic ###** | **Theme**                              | **Contribution (%)** | **No. of Reviews** | **Top Words**                                | **Key Insights**                                                                 |
 |-------------|----------------------------------------|-----------------------|---------------------|---------------------------------------------|----------------------------------------------------------------------------------|
 | **Topic 1** | **Playlist Management**                | 16.5%                | ~10,107 reviews     | playlist, add, want, listen, like            | Users discuss playlist interactions, such as adding, removing, and shuffling songs. |
 | **Topic 2** | **Technical Issues and Connectivity**  | 9.5%                 | ~5,827 reviews      | try, log, work, account, connection          | Concerns about login problems, account issues, and connectivity problems.         |
